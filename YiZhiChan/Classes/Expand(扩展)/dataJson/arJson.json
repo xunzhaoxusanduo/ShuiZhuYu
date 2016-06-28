@@ -1,0 +1,21 @@
+{
+  "state" : 1,
+  "msg" : "获取成功",
+  "data" : [
+    {
+      "actionUrl" : "http:\/\/devftp.lansum.cn\/kfc3on3\/shipin.mp4",
+      "actionType" : 1,
+      "imageUrl" : "\/var\/mobile\/Containers\/Bundle\/Application\/062EBB92-7981-4AB6-92AB-3348F730606C\/ceshi.app\/3.jpg"
+    },
+    {
+      "actionUrl" : "\/var\/mobile\/Containers\/Bundle\/Application\/062EBB92-7981-4AB6-92AB-3348F730606C\/ceshi.app\/lizhendao22.assetbundle",
+      "actionType" : 3,
+      "imageUrl" : "\/var\/mobile\/Containers\/Bundle\/Application\/062EBB92-7981-4AB6-92AB-3348F730606C\/ceshi.app\/1.jpg"
+    },
+    {
+      "actionUrl" : "http:\/\/www.baidu.com",
+      "actionType" : 2,
+      "imageUrl" : "\/var\/mobile\/Containers\/Bundle\/Application\/062EBB92-7981-4AB6-92AB-3348F730606C\/ceshi.app\/2.jpg"
+    }
+  ]
+}

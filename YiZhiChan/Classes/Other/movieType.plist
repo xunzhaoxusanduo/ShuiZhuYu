@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bg_icon_1</key>
+	<string>IMAX2D</string>
+	<key>bg_icon_2</key>
+	<string>IMAX3D</string>
+	<key>bg_icon_3</key>
+	<string>3D</string>
+	<key>bg_icon_4</key>
+	<string>双机3D</string>
+	<key>bg_icon_5</key>
+	<string>4D</string>
+	<key>bg_icon_6</key>
+	<string>4D%</string>
+	<key>bg_icon_7</key>
+	<string>polymax</string>
+	<key>bg_icon_8</key>
+	<string>中国巨幕</string>
+	<key>bg_icon_9</key>
+	<string>巨幕</string>
+	<key>bg_icon_10</key>
+	<string>东方巨幕</string>
+	<key>bg_icon_11</key>
+	<string>巨幕2D</string>
+	<key>bg_icon_12</key>
+	<string>巨幕3D</string>
+	<key>bg_icon_13</key>
+	<string>4K</string>
+	<key>bg_icon_14</key>
+	<string>dolby</string>
+	<key>bg_icon_15</key>
+	<string>5D</string>
+	<key>bg_icon_16</key>
+	<string>6D</string>
+	<key>bg_icon_17</key>
+	<string>reald</string>
+	<key>bg_icon_18</key>
+	<string>特效厅</string>
+</dict>
+</plist>

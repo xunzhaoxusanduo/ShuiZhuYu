@@ -1,0 +1,55 @@
+{
+    "state": 1,
+    "msg": "获取成功",
+    "data": [
+             {
+             "movieInfoId": 400,
+             "movieName": "疯狂动物城",
+             "cover": "疯狂动物城",
+             "rating": 9.8,
+             "url": "http://www.baidu.com"
+             },
+             {
+             "movieInfoId": 408,
+             "movieName": "叶问3",
+             "cover": "叶问3",
+             "rating": 8.0,
+             "url": "http://www.baidu.com"
+             },
+             {
+             "movieInfoId": 410,
+             "movieName": "地心营救",
+             "cover": "地心营救",
+             "rating": 9.9,
+             "url": "http://www.baidu.com"
+             },
+             {
+             "movieInfoId": 400,
+             "movieName": "疯狂动物城",
+             "cover": "疯狂动物城",
+             "rating": 9.8,
+             "url": "http://www.baidu.com"
+             },
+             {
+             "movieInfoId": 408,
+             "movieName": "叶问3",
+             "cover": "叶问3",
+             "rating": 8.0,
+             "url": "http://www.baidu.com"
+             },
+             {
+             "movieInfoId": 410,
+             "movieName": "地心营救",
+             "cover": "地心营救",
+             "rating": 9.9,
+             "url": "http://www.baidu.com"
+             }
+             ],
+    "data2": null,
+    "rows": null,
+    "footer": null,
+    "total": 0,
+    "pageSize": 0,
+    "authKey": null,
+    "dataMode": 0
+}

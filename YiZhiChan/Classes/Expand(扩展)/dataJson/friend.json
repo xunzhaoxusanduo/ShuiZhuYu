@@ -1,0 +1,178 @@
+{
+    "state": 1,
+    "msg": null,
+    
+    "data": [
+             {
+             "rowNumber": 4,
+             "userId": 1,
+             "infoId": 16,
+             "replyCount": 1235,
+             "praiseCount": 789,
+             "addTime": "2016-05-18 10:12:22",
+             "type": "字幕秀",
+             "typeEn": "SubTitleShow",
+             "files": [
+                       {
+                       "imgUrl": "http://devftp.lansum.cn/fishAdmin/UploadFile//image/20160517/20160517180316_3936.jpg",
+                       "text": "美国派的男主？"
+                       },
+                       {
+                       "imgUrl": "http://devftp.lansum.cn/fishAdmin/UploadFile//image/20160517/20160517180325_4601.jpg",
+                       "text": "一个都不认识"
+                       },
+                       {
+                       "imgUrl": "http://devftp.lansum.cn/fishAdmin/UploadFile//image/20160517/20160517180316_3936.jpg",
+                       "text": "美国派的男主？"
+                       },
+                       {
+                       "imgUrl": "http://devftp.lansum.cn/fishAdmin/UploadFile//image/20160517/20160517180316_3936.jpg",
+                       "text": "美国派的男主？"
+                       },
+                       {
+                       "imgUrl": "http://devftp.lansum.cn/fishAdmin/UploadFile//image/20160517/20160517180316_3936.jpg",
+                       "text": "美国派的男主？"
+                       },
+                       {
+                       "imgUrl": "http://devftp.lansum.cn/fishAdmin/UploadFile//image/20160517/20160517180316_3936.jpg",
+                       "text": "美国派的男主？"
+                       },
+                       {
+                       "imgUrl": "http://devftp.lansum.cn/fishAdmin/UploadFile//image/20160517/20160517180316_3936.jpg",
+                       "text": "美国派的男主？"
+                       },
+                       {
+                       "imgUrl": "http://devftp.lansum.cn/fishAdmin/UploadFile//image/20160517/20160517180316_3936.jpg",
+                       "text": "美国派的男主？"
+                       },
+                       {
+                       "imgUrl": "http://devftp.lansum.cn/fishAdmin/UploadFile//image/20160517/20160517180316_3936.jpg",
+                       "text": "美国派的男主？"
+                       },
+                       ],
+             "title": "",
+             "content": "电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介",
+             "userInfo": {
+             "userId": "1",
+             "userName": "人在旅途",
+             "level": "1",
+             "userImg": "http://devftp.lansum.cn/fishapi/ImgUpload/userHeadImg/headPortrait_1.jpg",
+             "sex": null,
+             "levelImage": "http://localhost:49196/ImgUpload/levelImg/grade_1.png"
+             },
+             "movieInfo": null,
+             "movieInfoId": 444,
+             "currUserLike": false
+             },
+             {
+             "rowNumber": 1,
+             "userId": 1,
+             "infoId": 18,
+             "replyCount": 0,
+             "praiseCount": 131331,
+             "addTime": "2016-05-22 14:29:09",
+             "type": "海报秀",
+             "typeEn": "PosterShow",
+             "files": [
+                       {
+                       "imgUrl": "http://devftp.lansum.cn/fishAdmin/UploadFile//image/20160517/20160517180316_3936.jpg",
+                       "text": null
+                       }
+                       ],
+             "title": "好",
+             "content": "真的很好哦睡觉哦价格哦几分薄平均分别哦破手机放鞭炮vszjfbposefbpdsjkfbposjkfbp0s[zojkfb平时分接口被皮肤健康吧偶怕设计方边坡俄飞机吧哦减肥是打破北京发布哦频道积分被迫平时多几分恐怖配色的发布",
+             "userInfo": {
+             "userId": "1",
+             "userName": "人在旅途",
+             "level": "1",
+             "userImg": "http://devftp.lansum.cn/fishapi/ImgUpload/userHeadImg/headPortrait_1.jpg",
+             "sex": null,
+             "levelImage": "http://localhost:49196/ImgUpload/levelImg/grade_1.png"
+             },
+             "movieInfo": null,
+             "movieInfoId": 438,
+             "currUserLike": false
+             },
+             {
+             "rowNumber": 1,
+             "userId": 1,
+             "infoId": 18,
+             "replyCount": 0,
+             "praiseCount": 131331,
+             "addTime": "2016-05-22 14:29:09",
+             "type": "配音秀",
+             "typeEn": "dubbing",
+             "files": [
+                       {
+                       "imgUrl": "http://devftp.lansum.cn/fishadmin/UploadFile/common/video/20160518/20160518175827_1889.mp4",
+                       "text": null
+                       }
+                       ],
+             "title": "好",
+             "content": "配音秀配音秀配音秀配音秀配音秀配音秀",
+             "userInfo": {
+             "userId": "1",
+             "userName": "人在旅途",
+             "level": "1",
+             "userImg": "http://devftp.lansum.cn/fishapi/ImgUpload/userHeadImg/headPortrait_1.jpg",
+             "sex": null,
+             "levelImage": "http://localhost:49196/ImgUpload/levelImg/grade_1.png"
+             },
+             "movieInfo": null,
+             "movieInfoId": 438,
+             "currUserLike": false
+             },
+             {
+             "rowNumber": 3,
+             "userId": 1,
+             "infoId": 12,
+             "replyCount": 123,
+             "praiseCount": 456,
+             "addTime": "2016-05-19 17:25:33",
+             "type": "影评",
+             "typeEn": "MovieDetail",
+             "files": null,
+             "title": "",
+             "content": "",
+             "userInfo": {
+             "userId": "1",
+             "userName": "人在旅途",
+             "level": "1",
+             "userImg": "http://devftp.lansum.cn/fishapi/ImgUpload/userHeadImg/headPortrait_1.jpg",
+             "sex": null,
+             "levelImage": "http://localhost:49196/ImgUpload/levelImg/grade_1.png"
+             },
+             "movieInfo": {
+             "movieInfoId": 445,
+             "movieName": "再见，在也不见",
+             "cover": "http://devftp.lansum.cn/fishAdmin/UploadFile//image/20160517/20160517171714_0146.jpg",
+             "remarks": null,
+             "details": "电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介电影简介",
+             "state": null,
+             "releaseDate": "2016-05-13",
+             "rating": 6,
+             "movieType": null,
+             "addTime": null,
+             "updateTime": null,
+             "deleteTime": null,
+             "movieTime": null,
+             "language": null,
+             "area": null,
+             "displayType": "忻钰坤 陈世杰 西瓦罗·孔萨库",
+             "ver": "2D",
+             "director": "忻钰坤 陈世杰 西瓦罗·孔萨库",
+             "coStar": null,
+             "act": null
+             },
+             "movieInfoId": 445,
+             "currUserLike": false
+             }
+             ],
+    "data2": null,
+    "rows": null,
+    "footer": null,
+    "total": 0,
+    "pageSize": 20,
+    "authKey": null,
+    "dataMode": 0
+}

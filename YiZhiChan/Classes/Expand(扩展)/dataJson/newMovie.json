@@ -1,0 +1,46 @@
+{
+    "state": 1,
+    "msg": "获取成功",
+    "data": [
+             {
+             "movieInfoId": 400,
+             "posterImageUrl": "寻龙诀",
+             "movieName": "寻龙诀",
+             "grade": 8.6,
+             "movieType": "sdbv",
+             "directorName": "导演：乌尔善",
+             "releaseDate": "2015-12-25上映",
+             "movieNotes": "是客观来说你DV卡欧洲历史的vklohsvdkizsdhnvkodsv",
+             "url": "http://www.baidu.com"
+             },
+             {
+             "movieInfoId": 400,
+             "posterImageUrl": "老炮儿",
+             "movieName": "老炮儿",
+             "grade": 9.8,
+             "movieType": "1",
+             "directorName": "导演：乌尔善",
+             "releaseDate": "2015-12-25上映",
+             "movieNotes": "是客观来说你DV卡欧洲历史的vklohsvdkizsdhnvkodsvsdvbsz你失踪invaosidhvia是的vhnhadwis阿迪vhi",
+             "url": "http://www.baidu.com"
+             },
+             {
+             "movieInfoId": 400,
+             "posterImageUrl": "极盗者",
+             "movieName": "极盗者",
+             "grade": 7.8,
+             "movieType": "1",
+             "directorName": "导演：乌尔善",
+             "releaseDate": "2015-12-25上映",
+             "movieNotes": "是客观来说你DV卡欧洲历史的vklohsvdkizsdhnvkodsv",
+             "url": "http://www.baidu.com"
+             }
+             ],
+    "data2": null,
+    "rows": null,
+    "footer": null,
+    "total": 0,
+    "pageSize": 0,
+    "authKey": null,
+    "dataMode": 0
+}

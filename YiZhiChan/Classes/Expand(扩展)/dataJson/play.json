@@ -1,0 +1,27 @@
+{
+    "state": 1,
+    "msg": "获取成功",
+    "data": [
+             {
+             "title": "海报秀",
+             "posterImageUrl": "海报秀",
+             "url": "http://devftp.lansum.cn/fashhtml/recreation/recreationShow.html?navbarstyle=0",
+             "attitude": 587,
+             "comment":  134338
+             },
+             {
+             "title": "字幕秀",
+             "posterImageUrl": "字幕秀",
+             "url": "http://devftp.lansum.cn/fashhtml/recreation/recreationShow.html?navbarstyle=0",
+             "attitude": 113400,
+             "comment": 5282
+             }
+             ],
+    "data2": null,
+    "rows": null,
+    "footer": null,
+    "total": 0,
+    "pageSize": 0,
+    "authKey": null,
+    "dataMode": 0
+}

@@ -1,0 +1,45 @@
+{
+    "state": 1,
+    "msg": "获取成功",
+    "data": [
+             {
+             "title": "《疯狂动物城》里的细节，一遍肯定看不全！",
+             "detail": "海报奥斯卡不出卡萨女厕收到货vhisdhvissdkvhnskd是本地绿茶",
+             "url": "http://devftp.lansum.cn/fashhtml/deityComment/deityComment.html?navbarstyle=0",
+             "photoArray": [
+                            {
+                            "imageUrl": "cm1"
+                            },
+                            {
+                            "imageUrl": "cm2"
+                            },
+                            {
+                            "imageUrl": "cm3"
+                            }
+                            ]
+             },
+             {
+             "title": "他们说“即使是打斗戏也没能拯救糟糕的剧本”？",
+             "detail": "这部电影是在清迈休假的时候看的，很奇妙而难忘的观影感受，在泰国煽风点火士可杀快睡吧vikds卡萨丁",
+             "url": "http://devftp.lansum.cn/fashhtml/deityComment/deityComment.html?navbarstyle=0",
+             "photoArray": [
+                            {
+                            "imageUrl": "cm4"
+                            },
+                            {
+                            "imageUrl": "cm5"
+                            },
+                            {
+                            "imageUrl": "cm6"
+                            }
+                            ]
+             }
+             ],
+    "data2": null,
+    "rows": null,
+    "footer": null,
+    "total": 0,
+    "pageSize": 0,
+    "authKey": null,
+    "dataMode": 0
+}

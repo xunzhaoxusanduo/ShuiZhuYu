@@ -1,0 +1,25 @@
+{
+    "state": 1,
+    "msg": "获取成功",
+    "data": [
+             {
+             "imageUrl": "bg1",
+             "url": "http://www.baidu.com"
+             },
+             {
+             "imageUrl": "bg2",
+             "url": "http://www.baidu.com"
+             },
+             {
+             "imageUrl": "bg3",
+             "url": "http://www.baidu.com"
+             }
+             ],
+    "data2": null,
+    "rows": null,
+    "footer": null,
+    "total": 0,
+    "pageSize": 0,
+    "authKey": null,
+    "dataMode": 0
+}

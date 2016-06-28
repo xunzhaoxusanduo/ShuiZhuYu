@@ -1,0 +1,69 @@
+{
+    "state": 1,
+    "msg": "获取成功",
+    "data": [
+             {
+             "moduleType": 1,
+             "moduleName": "推荐电影场次",
+             "imageUrl": "",
+             "url": "http://devftp.lansum.cn/fashhtml/movie/movie.html?State=4&navbarstyle=1",
+             "startTime": null,
+             "endTime": null
+             },
+             {
+             "moduleType": 2,
+             "moduleName": "幸运大转盘",
+             "imageUrl": "广告2",
+             "url": "http://devftp.lansum.cn/fashhtml/Movie/movieDetail_old.html?navbarstyle=0",
+             "startTime": "2016-04-01 09:54:00",
+             "endTime": "2016-04-30 09:54:00"
+             },
+             {
+             "moduleType": 1,
+             "moduleName": "新影讯",
+             "imageUrl": "",
+             "url": "http://devftp.lansum.cn/fashhtml/movie/movie.html?State=4&navbarstyle=1",
+             "startTime": null,
+             "endTime": null
+             },
+             {
+             "moduleType": 2,
+             "moduleName": "广告",
+             "imageUrl": "广告1",
+             "url": "http://devftp.lansum.cn/fashhtml/Movie/movieDetail_old.html?navbarstyle=0",
+             "startTime": null,
+             "endTime": null
+             },
+             {
+             "moduleType": 1,
+             "moduleName": "玩吧",
+             "imageUrl": "",
+             "url": "http://devftp.lansum.cn/fashhtml/recreation/recreationShow.html?navbarstyle=0",
+             "startTime": null,
+             "endTime": null
+             },
+             {
+             "moduleType": 2,
+             "moduleName": "广告2",
+             "imageUrl": "广告2.png",
+             "url": "http://devftp.lansum.cn/fashhtml/Movie/movieDetail_old.html?navbarstyle=0",
+             "startTime": null,
+             "endTime": null
+             },
+             {
+             "moduleType": 1,
+             "moduleName": "神评论",
+             "imageUrl": null,
+             "url": "http://devftp.lansum.cn/fashhtml/other/deityComment.html?navbarstyle=1",
+             "startTime": null,
+             "endTime": null
+             }
+             ],
+    "data2": null,
+    "rows": null,
+    "footer": null,
+    "total": 0,
+    "pageSize": 0,
+    "authKey": null,
+    "dataMode": 0
+}
